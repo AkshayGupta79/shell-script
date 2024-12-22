@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Variables
-DOMAIN="codespazio.com"
-DB_FILE="codespazio"
-IP="3.110.158.198"
+DOMAIN="domain.com"
+DB_FILE="domain_name"
+IP="ip_address"
 NAMED_CONF="/etc/named.conf"
 NAMED_CONF_BACKUP="/root/named.conf"
 DB_PATH="/var/named"
